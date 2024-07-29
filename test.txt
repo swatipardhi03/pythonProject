@@ -1,0 +1,4 @@
+The Data Science process: 
+ 1) Predictive causal analysis 
+ 2) Prescription analysis 
+3) Machine learning to make predictions 
