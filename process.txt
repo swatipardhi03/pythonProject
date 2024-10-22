@@ -1,3 +1,0 @@
-points:1) Predictive causal analysis
-points:2) Prescription analysis
-points:3) Machine learning to make predictions
